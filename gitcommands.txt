@@ -1,0 +1,11 @@
+
+git init
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git add README.md
+git commit -m "first Project"
+git branch -M main
+git remote add origin https://github.com/Rishabh1947360/FSDPROJECT-10DEC.git
+git push -u origin main
+git checkout 
+git log
